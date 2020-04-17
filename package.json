@@ -1,6 +1,6 @@
 {
   "name": "@ag1/wela",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "our date util lib",
   "main": "./lib/index.js",
   "jsnext:main": "./lib-module/index.js",
