@@ -40,10 +40,9 @@
     "typescript": "^3.8.3"
   },
   "keywords": [
-    "null",
-    "undefined",
-    "nil",
-    "typescript"
+    "typescript",
+    "date",
+    "timezone"
   ],
   "repository": {
     "url": "https://github.com/AgentOneCoLtd/wela.git",
